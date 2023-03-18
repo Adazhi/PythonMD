@@ -1,0 +1,5 @@
+hrs = input("Enter Hours:")
+h = float(hrs)
+xx = input("Enter the Rate:")
+x = float(xx)
+print( h  * x)
